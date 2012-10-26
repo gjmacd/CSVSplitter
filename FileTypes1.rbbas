@@ -1,0 +1,1 @@
+#tag FileTypeSet	#tag FileType		CodeName=Csv		Extension=csv		Flags=&h0		MacCreator=		MacType=		Name=csv	#tag EndFileType#tag EndFileTypeSet
